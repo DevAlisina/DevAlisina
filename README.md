@@ -27,7 +27,6 @@ Right now, I'm focused on building a solid foundation in front-end web developme
 - Tailwind CSS
 - React (soon!)
 - Japanese language
-- Network
 ---
 
 ### 💡 Why I'm Here
@@ -44,7 +43,7 @@ I'm using GitHub to:
 
 - I'm a huge fan of **Detective Conan**
 - I learned English mainly to read docs and watch programming content
-- I run a small community on Telegram called **Afghan Coders**
+- I run a small community on Telegram called [**Afghan Coders**](https://t.me/AfghanCoders)
 
 ---
 
@@ -61,17 +60,18 @@ I'm using GitHub to:
 
 ### 📊 GitHub Stats
 
-![Alisina's GitHub Stats](https://github-readme-stats.vercel.app/api?username=devalisina&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devalisina&layout=compact&theme=radical)
+
+![Alisina's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevAlisina&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevAlisina&layout=compact&theme=radical)
 
 ---
 
 ### 📬 Contact Me
 
-I'd love to connect with other developers around the world!
+I'm open to collaborations, learning together, or just having a friendly chat!
 
-- Telegram: `@AlisinaDev`  
-- Email: `developer.alisina@gmail.com`
+- Telegram: [@AlisinaDev](https://t.me/AlisinaDev)  
+- Email: [developer.alisina@gmail.com](mailto:developer.alisina@gmail.com)
 
 ---
 
