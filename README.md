@@ -15,7 +15,7 @@ Right now, I'm focused on building a solid foundation in front-end web developme
 
 ### 🛠️ Tech Stack
 
-- **Frontend:** HTML5, CSS3, JavaScript (Vanilla), Bootstrap, jQuery  
+- **Frontend:** HTML5, CSS3, JavaScript, Bootstrap, jQuery  
 - **Backend (Basic):** PHP  
 - **Tools:** Git, GitHub, VS Code
 
@@ -27,8 +27,7 @@ Right now, I'm focused on building a solid foundation in front-end web developme
 - Tailwind CSS
 - React (soon!)
 - Japanese language
-- Basics of electronics
-
+- Network
 ---
 
 ### 💡 Why I'm Here
