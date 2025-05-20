@@ -15,7 +15,7 @@ Right now, I'm focused on building a solid foundation in front-end web developme
 
 ### 🛠️ Tech Stack
 
-- **Frontend:** HTML5, CSS3, JavaScript, Bootstrap, jQuery  
+- **Frontend:** HTML5, CSS3, JavaScript (Vanilla), Bootstrap, jQuery  
 - **Backend (Basic):** PHP  
 - **Tools:** Git, GitHub, VS Code
 
@@ -61,8 +61,8 @@ I'm using GitHub to:
 
 ### 📊 GitHub Stats
 
-![Alisina's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alisina-dev&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alisina-dev&layout=compact&theme=radical)
+![Alisina's GitHub Stats](https://github-readme-stats.vercel.app/api?username=devalisina&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devalisina&layout=compact&theme=radical)
 
 ---
 
